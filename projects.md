@@ -7,7 +7,7 @@ title: Experiences
 # Professional Experiences
 
 ## MotorCity Casino Hotel, Detroit, Michigan
-![MotorCity Casino Hotel Logo](/assets/img/logos/motorcity-logo.png)
+![MotorCity Casino Hotel Logo](/assets/img/motorcity-logo.png)
 ### Software Engineer Intern (MDP) - Jan 2024 - Current
 
 - Developed an AI model using OpenAI API and Python, analyzing gaming data to create personalized offers, enhancing customer engagement and marketing efficiency.
@@ -16,7 +16,7 @@ title: Experiences
 - Led user interviews and conducted extensive research on client engagement tracking, contributing to the improvement of business process understanding and client data utilization.
 
 ## AiCloud, Pohang, South Korea
-![AiCloud Logo](/assets/img/logos/aicloud-logo.png)
+![AiCloud Logo](/assets/img/aicloud-logo.png)
 ### Machine Learning Researcher Intern - May 2023 – August 2023
 
 - Led research initiative on the development of two RNN-based machine learning models for drug discovery, utilizing Python and R to explore process efficiency improvements, indirectly contributing to a significant pharmaceutical investment.
@@ -24,7 +24,7 @@ title: Experiences
 - Conducted in-depth research on integrating NLP and transfer learning into the drug discovery pipeline, significantly advancing the field's innovation and model effectiveness.
 
 ## Korean Army, Gyeonggi-do, South Korea
-![Korean Army Logo](/assets/img/logos/korean-army-logo.png)
+![Korean Army Logo](/assets/img/korean-army-logo.png)
 ### Sergeant, Squad Leader - August 2020 – February 2022
 
 - Managed inventory logistics for $200 million worth of ammunition, ensuring optimal supply distribution and readiness.
