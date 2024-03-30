@@ -12,8 +12,6 @@ My name is Brian Taehun Lee, a junior at the University of Michigan, majoring in
 * Committed to Continuous Learning: The fields of computer science and mathematics are ever-evolving, and I'm committed to staying on top of the latest technologies and methodologies.
 
 
-What else do you need?
-
 ### My Journey
 
 My journey into the world of technology started in high school when I first tinkered with coding. It was then I realized the power of code to bring ideas to life. This revelation led me to pursue a degree in Computer Science at the University of Michigan, where I've had the opportunity to delve deeper into software engineering and machine learning.
