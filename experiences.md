@@ -1,6 +1,12 @@
-# Professional Experiences
 
-## <div style="display: flex; align-items: center;"><img src="/assets/img/motorcity-logo.png" alt="MotorCity Casino Hotel Logo" style="width: 100px; margin-right: 10px;"/>MotorCity Casino Hotel, Detroit, Michigan</div>
+<h2>Professional Experiences</h2>
+
+
+## <div style="display: flex; align-items: center;">
+    <img src="/assets/img/motorcity-logo.png" alt="MotorCity Casino Hotel Logo" style="width: 100px; margin-right: 10px;"/>
+    <span>MotorCity Casino Hotel, Detroit, Michigan</span>
+</div>
+
 ### Software Engineer Intern (MDP) - Jan 2024 - Current
 - Developed an AI model using OpenAI API and Python, analyzing gaming data to create personalized offers, enhancing customer engagement and marketing efficiency.
 - Architected a full-system prototype integrating the AI model with a database and user interface, automating marketing processes and optimizing customer management.
