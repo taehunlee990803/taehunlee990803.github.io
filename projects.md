@@ -2,7 +2,7 @@
 
 
 
-### AI-driven Virtual Casino Host Project (March 2024 - April 2024)
+### AI-driven Virtual Casino Host Project (January 2024 - Current)
 
 **Overview**: This project involves the development of an AI-driven Virtual Casino Host using OpenAI's API. The goal is to create a system that tracks players' gaming activity, analyzes their behavior and preferences, and tailors offers to encourage increased activity at the casino. The project is undertaken by students of the Multidisciplinary Design Program at the University of Michigan, in collaboration with the MotorCity Casino marketing group. It aims to enhance marketing communication customization and implement AI-driven strategies for increased engagement.
 
