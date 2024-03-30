@@ -20,7 +20,8 @@ author: Brian Taehun Lee
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Projects: "projects
+  Experiences: "experience
   CV: "/assets/Resume_TaehunLee.pdf"
 
 ################
