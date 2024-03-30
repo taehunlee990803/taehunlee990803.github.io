@@ -1,6 +1,4 @@
 
-## Projects
-
 ### MapReduce Framework Project  (March 2024 - April 2024)
 
 **Overview**: Developed a Python-based MapReduce framework, drawing inspiration from Google's original MapReduce paper. This project focuses on executing MapReduce programs with distributed processing across a cluster of computers, encompassing AWS EMR, Google Dataproc, or Microsoft Azure's HDInsight. It aims to delve into the core aspects of distributed systems, fault tolerance, concurrency using OS-provided facilities (such as threads and processes), and networking via sockets.
