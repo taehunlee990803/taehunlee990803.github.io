@@ -4,6 +4,19 @@ Welcome to my personal portfolio! Here, you'll find a selection of projects I've
 
 ## Projects
 
+### MapReduce Framework Project
+
+**Overview**: Developed a Python-based MapReduce framework, drawing inspiration from Google's original MapReduce paper. This project focuses on executing MapReduce programs with distributed processing across a cluster of computers, encompassing AWS EMR, Google Dataproc, or Microsoft Azure's HDInsight. It aims to delve into the core aspects of distributed systems, fault tolerance, concurrency using OS-provided facilities (such as threads and processes), and networking via sockets.
+
+**Technologies**: Python, Distributed Systems, Fault Tolerance, Concurrency, Networking
+
+**Key Achievements**:
+- Implemented a robust Manager component that listens for user-submitted MapReduce jobs, distributing tasks among Workers efficiently.
+- Designed and executed multiple Worker instances capable of performing map and reduce tasks, contributing to the overall MapReduce program.
+- Incorporated fault tolerance mechanisms to handle failures gracefully, ensuring system reliability and data integrity.
+- Utilized OS-provided concurrency facilities and networking to facilitate communication and task execution among distributed components.
+
+
 ### Sarcasm News Headline Detector (January 2023 - April 2023)
 
 **Overview**: Led a student team to develop a machine learning model capable of distinguishing sarcastic from serious news headlines with 78% accuracy. This project involved processing a dataset of 2,500 headlines using advanced NLP techniques.
@@ -35,8 +48,3 @@ Welcome to my personal portfolio! Here, you'll find a selection of projects I've
 - Demonstrated advanced knowledge in C-style pointers, arrays, and structs.
 - Enhanced debugging and testing capabilities through meticulous code analysis and optimization.
 
-## Contact
-
-Interested in discussing these projects further or exploring potential collaboration opportunities? Feel free to reach out!
-
-[LinkedIn](#) | [GitHub](#) | [Email](#)
