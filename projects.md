@@ -15,6 +15,15 @@ title: Experiences
 - Pioneered the implementation of an automated email system, aligning with the Casino Marketing Department's standards to streamline high-touch marketing strategies.
 - Led user interviews and conducted extensive research on client engagement tracking, contributing to the improvement of business process understanding and client data utilization.
 
+## Bithumb, Seoul, Korea
+![MotorCity Casino Hotel Logo](/assets/bithumb.png)
+### Blockchain Analyst Intern - Dec 2023 - Jan 2024
+
+- Researched and analyzed the blockchain and blockchain market, aligning insights with global marketing campaigns.
+- Emphasized the integration of technology and analytics, showcasing a keen understanding of blockchain's role in marketing.
+- Translated insights into actionable marketing strategies, developing tailored ideas and 16-second TVC ad concepts
+  
+
 ## AiCloud, Pohang, South Korea
 ![AiCloud Logo](/assets/img/aicloud-logo.png)
 ### Machine Learning Researcher Intern - May 2023 – August 2023
