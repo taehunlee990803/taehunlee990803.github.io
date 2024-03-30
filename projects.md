@@ -1,6 +1,3 @@
-# Personal Portfolio
-
-Welcome to my personal portfolio! Here, you'll find a selection of projects I've worked on, showcasing my skills in Python, machine learning (ML), natural language processing (NLP), and computer vision. Dive into each project to learn more about my approach, the technologies I've used, and the results achieved.
 
 ## Projects
 
