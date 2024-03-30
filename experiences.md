@@ -3,7 +3,7 @@
 
 <div style="display: flex; align-items: center;">
     <img src="/assets/img/motorcity-logo.png" alt="MotorCity Casino Hotel Logo" style="width: 100px; margin-right: 10px;">
-    <strong>MotorCity Casino Hotel, Detroit, Michigan</strong>
+    <div style="font-size: 24px; font-weight: bold;">MotorCity Casino Hotel, Detroit, Michigan</div>
 </div>
 
 ### Software Engineer Intern (MDP) - Jan 2024 - Current
@@ -14,7 +14,7 @@
 
 <div style="display: flex; align-items: center;">
     <img src="/assets/img/bithumb.png" alt="Bithumb Logo" style="width: 100px; margin-right: 10px;">
-    <strong>MotorCity Casino Hotel, Detroit, Michigan</strong>
+    <div style="font-size: 24px; font-weight: bold;">Bithumb, Seoul, Korea</div>
 </div>
 ### Blockchain Analyst Intern - Dec 2023 - Jan 2024
 - Researched and analyzed the blockchain and blockchain market, aligning insights with global marketing campaigns.
@@ -23,7 +23,7 @@
 
 <div style="display: flex; align-items: center;">
     <img src="/assets/img/aicloud-logo.png" alt="AiCloud Logo" style="width: 100px; margin-right: 10px;">
-    <strong>MotorCity Casino Hotel, Detroit, Michigan</strong>
+    <div style="font-size: 24px; font-weight: bold;"> AiCloud, South Korea</div>
 </div>
 ### Machine Learning Researcher Intern - May 2023 – August 2023
 - Led research initiative on the development of two RNN-based machine learning models for drug discovery, utilizing Python and R to explore process efficiency improvements, indirectly contributing to a significant pharmaceutical investment.
@@ -33,7 +33,7 @@
 
 <div style="display: flex; align-items: center;">
     <img src="/assets/img//korean-army-logo.png" alt="Korean Army Logo" style="width: 100px; margin-right: 10px;">
-    <strong>MotorCity Casino Hotel, Detroit, Michigan</strong>
+    <div style="font-size: 24px; font-weight: bold;">Korean Army, Gyeonggi-do, South Korea</div>
 </div>
 ### Sergeant, Squad Leader - August 2020 – February 2022
 - Managed inventory logistics for $200 million worth of ammunition, ensuring optimal supply distribution and readiness.
