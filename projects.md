@@ -1,4 +1,23 @@
 ## Projects
+
+
+
+### AI-driven Virtual Casino Host Project (March 2024 - April 2024)
+
+**Overview**: This project involves the development of an AI-driven Virtual Casino Host using OpenAI's API. The goal is to create a system that tracks players' gaming activity, analyzes their behavior and preferences, and tailors offers to encourage increased activity at the casino. The project is undertaken by students of the Multidisciplinary Design Program at the University of Michigan, in collaboration with the MotorCity Casino marketing group. It aims to enhance marketing communication customization and implement AI-driven strategies for increased engagement.
+
+**Technologies**: OpenAI API, Python, Data Analysis, AI & Machine Learning, NLP
+
+**Key Achievements**:
+- Conducted thorough user interviews and literature reviews to understand current business processes and relevant forecasting techniques.
+- Utilized the OpenAI API and Python to develop and extend an existing AI model capable of generating tailored offers based on players' gaming data.
+- Developed a full system prototype including a database and a basic front-end/UI, automating existing "high touch" marketing processes and allowing for the management of a larger number of customers.
+- Implemented basic functionality for generating and sending informational emails based on criteria from the Casino Marketing Department.
+- Refined the prototype and AI model based on stakeholder feedback and operational testing, connecting to Microsoft platform data streams for ongoing data collection.
+- Incorporated functionality for generating individualized text for emails and suggesting clients for specific promotions, aiming for a high level of personalized engagement.
+
+
+
 ### MapReduce Framework Project  (March 2024 - April 2024)
 
 **Overview**: Developed a Python-based MapReduce framework, drawing inspiration from Google's original MapReduce paper. This project focuses on executing MapReduce programs with distributed processing across a cluster of computers, encompassing AWS EMR, Google Dataproc, or Microsoft Azure's HDInsight. It aims to delve into the core aspects of distributed systems, fault tolerance, concurrency using OS-provided facilities (such as threads and processes), and networking via sockets.
