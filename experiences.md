@@ -14,7 +14,7 @@
 
 <div style="display: flex; align-items: center;">
     <img src="/assets/img/bithumb.png" alt="Bithumb Logo" style="width: 100px; margin-right: 10px;">
-    <div style="font-size: 24px; font-weight: bold;"> Bithumb, Seoul, Korea </div>
+    <div style="font-size: 24px; font-weight: bold;"> Bithumb, Seoul, South Korea </div>
 </div>
 
 ### Blockchain Analyst Intern, Dec 2023 - Jan 2024
