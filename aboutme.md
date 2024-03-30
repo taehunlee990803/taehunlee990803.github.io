@@ -14,6 +14,10 @@ My name is Brian Taehun Lee, a junior at the University of Michigan, majoring in
 
 What else do you need?
 
-### My story
+### My Journey
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My journey into the world of technology started in high school when I first tinkered with coding. It was then I realized the power of code to bring ideas to life. This revelation led me to pursue a degree in Computer Science at the University of Michigan, where I've had the opportunity to delve deeper into software engineering and machine learning.
+
+Outside the classroom, I've participated in hackathons, contributed to open-source projects, and undertaken internships that have allowed me to apply theoretical knowledge in practical settings. These experiences have not only honed my technical skills but also taught me the value of teamwork, perseverance, and innovative thinking.
+
+I'm always on the lookout for opportunities to learn and grow, be it through internships, research projects, or simply connecting with fellow tech enthusiasts. If you're interested in discussing technology, collaborating on a project, or just want to chat about the latest in machine learning, I'd love to connect.
