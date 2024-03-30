@@ -1,10 +1,10 @@
 
-<h2>Professional Experiences</h2>
+### Professional Experiences
 
 
-## <div style="display: flex; align-items: center;">
-    <img src="/assets/img/motorcity-logo.png" alt="MotorCity Casino Hotel Logo" style="width: 100px; margin-right: 10px;"/>
-    <span>MotorCity Casino Hotel, Detroit, Michigan</span>
+<div style="display: flex; align-items: center;">
+    <img src="/assets/img/motorcity-logo.png" alt="MotorCity Casino Hotel Logo" style="width: 100px; margin-right: 10px;">
+    <strong>MotorCity Casino Hotel, Detroit, Michigan</strong>
 </div>
 
 ### Software Engineer Intern (MDP) - Jan 2024 - Current
