@@ -1,41 +1,42 @@
+# Personal Portfolio
 
----
-layout: page
-title: Experiences
----
+Welcome to my personal portfolio! Here, you'll find a selection of projects I've worked on, showcasing my skills in Python, machine learning (ML), natural language processing (NLP), and computer vision. Dive into each project to learn more about my approach, the technologies I've used, and the results achieved.
 
-# Professional Experiences
+## Projects
 
-## MotorCity Casino Hotel, Detroit, Michigan
-![MotorCity Casino Hotel Logo](/assets/img/motorcity-logo.png)
-### Software Engineer Intern (MDP) - Jan 2024 - Current
+### Sarcasm News Headline Detector (January 2023 - April 2023)
 
-- Developed an AI model using OpenAI API and Python, analyzing gaming data to create personalized offers, enhancing customer engagement and marketing efficiency.
-- Architected a full-system prototype integrating the AI model with a database and user interface, automating marketing processes and optimizing customer management.
-- Pioneered the implementation of an automated email system, aligning with the Casino Marketing Department's standards to streamline high-touch marketing strategies.
-- Led user interviews and conducted extensive research on client engagement tracking, contributing to the improvement of business process understanding and client data utilization.
+**Overview**: Led a student team to develop a machine learning model capable of distinguishing sarcastic from serious news headlines with 78% accuracy. This project involved processing a dataset of 2,500 headlines using advanced NLP techniques.
 
-## Bithumb, Seoul, Korea
-![MotorCity Casino Hotel Logo](/assets/img/bithumb.png)
-### Blockchain Analyst Intern - Dec 2023 - Jan 2024
+**Technologies**: Python, Machine Learning, NLP
 
-- Researched and analyzed the blockchain and blockchain market, aligning insights with global marketing campaigns.
-- Emphasized the integration of technology and analytics, showcasing a keen understanding of blockchain's role in marketing.
-- Translated insights into actionable marketing strategies, developing tailored ideas and 16-second TVC ad concepts
-  
+**Key Achievements**:
+- Spearheaded the efficient collaboration of a student team through milestones and code reviews.
+- Demonstrated proficiency in data processing, machine learning, and teamwork.
+- Presented our findings and methodology to faculty and industry professionals, highlighting our approach and results.
 
-## AiCloud, Pohang, South Korea
-![AiCloud Logo](/assets/img/aicloud-logo.png)
-### Machine Learning Researcher Intern - May 2023 – August 2023
+### Discussion Board Post Categorization AI (March 2023 - April 2023)
 
-- Led research initiative on the development of two RNN-based machine learning models for drug discovery, utilizing Python and R to explore process efficiency improvements, indirectly contributing to a significant pharmaceutical investment.
-- Facilitated multidisciplinary collaborations among government, academia, and healthcare sectors, focusing on scientific literature analysis to enhance the theoretical and conceptual foundations of drug discovery models, pivotal in securing a $50 million grant.
-- Conducted in-depth research on integrating NLP and transfer learning into the drug discovery pipeline, significantly advancing the field's innovation and model effectiveness.
+**Overview**: Developed an AI program designed to automate the categorization of discussion board posts into distinct topics. This project aimed at emulating human comprehension of content through the use of artificial intelligence and NLP technologies.
 
-## Korean Army, Gyeonggi-do, South Korea
-![Korean Army Logo](/assets/img/korean-army-logo.png)
-### Sergeant, Squad Leader - August 2020 – February 2022
+**Technologies**: Python, AI, NLP
 
-- Managed inventory logistics for $200 million worth of ammunition, ensuring optimal supply distribution and readiness.
-- Led a 9-member team in military drills and operations, earning the Outstanding Soldier award for significant contributions.
-- Initiated and conducted English language training for fellow soldiers, enhancing team communication and post-military career opportunities.
+**Key Achievements**:
+- Implemented machine learning techniques to autonomously identify word-topic relationships, eliminating the manual curation of word lists.
+- Enhanced the efficiency of content management on discussion boards by automating the categorization process.
+
+### Computer Vision Project (March 2023 - March 2023)
+
+**Overview**: Engineered a C++ program leveraging the seam-carving algorithm for intelligent image resizing. This project aimed at optimizing content by cropping empty spaces from images, showcasing exceptional algorithmic and programming skills.
+
+**Technologies**: C++, Computer Vision
+
+**Key Achievements**:
+- Demonstrated advanced knowledge in C-style pointers, arrays, and structs.
+- Enhanced debugging and testing capabilities through meticulous code analysis and optimization.
+
+## Contact
+
+Interested in discussing these projects further or exploring potential collaboration opportunities? Feel free to reach out!
+
+[LinkedIn](#) | [GitHub](#) | [Email](#)
