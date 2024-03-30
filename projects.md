@@ -16,7 +16,7 @@ title: Experiences
 - Led user interviews and conducted extensive research on client engagement tracking, contributing to the improvement of business process understanding and client data utilization.
 
 ## Bithumb, Seoul, Korea
-![MotorCity Casino Hotel Logo](/assets/bithumb.png)
+![MotorCity Casino Hotel Logo](/assets/img/bithumb.png)
 ### Blockchain Analyst Intern - Dec 2023 - Jan 2024
 
 - Researched and analyzed the blockchain and blockchain market, aligning insights with global marketing campaigns.
