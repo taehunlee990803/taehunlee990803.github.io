@@ -1,14 +1,7 @@
-
-
----
-layout: page
-title: Experiences
----
-
 # Professional Experiences
 
 ## MotorCity Casino Hotel, Detroit, Michigan
-![MotorCity Casino Hotel Logo](/assets/img/motorcity-logo.png)
+<img src="/assets/img/motorcity-logo.png" alt="MotorCity Casino Hotel Logo" width="100"/>
 ### Software Engineer Intern (MDP) - Jan 2024 - Current
 
 - Developed an AI model using OpenAI API and Python, analyzing gaming data to create personalized offers, enhancing customer engagement and marketing efficiency.
@@ -17,16 +10,16 @@ title: Experiences
 - Led user interviews and conducted extensive research on client engagement tracking, contributing to the improvement of business process understanding and client data utilization.
 
 ## Bithumb, Seoul, Korea
-![MotorCity Casino Hotel Logo](/assets/img/bithumb.png)
+<img src="/assets/img/bithumb.png" alt="Bithumb Logo" width="100"/>
 ### Blockchain Analyst Intern - Dec 2023 - Jan 2024
 
 - Researched and analyzed the blockchain and blockchain market, aligning insights with global marketing campaigns.
 - Emphasized the integration of technology and analytics, showcasing a keen understanding of blockchain's role in marketing.
-- Translated insights into actionable marketing strategies, developing tailored ideas and 16-second TVC ad concepts
+- Translated insights into actionable marketing strategies, developing tailored ideas and 16-second TVC ad concepts.
   
 
 ## AiCloud, Pohang, South Korea
-![AiCloud Logo](/assets/img/aicloud-logo.png)
+<img src="/assets/img/aicloud-logo.png" alt="AiCloud Logo" width="100"/>
 ### Machine Learning Researcher Intern - May 2023 – August 2023
 
 - Led research initiative on the development of two RNN-based machine learning models for drug discovery, utilizing Python and R to explore process efficiency improvements, indirectly contributing to a significant pharmaceutical investment.
@@ -34,7 +27,7 @@ title: Experiences
 - Conducted in-depth research on integrating NLP and transfer learning into the drug discovery pipeline, significantly advancing the field's innovation and model effectiveness.
 
 ## Korean Army, Gyeonggi-do, South Korea
-![Korean Army Logo](/assets/img/korean-army-logo.png)
+<img src="/assets/img/korean-army-logo.png" alt="Korean Army Logo" width="100"/>
 ### Sergeant, Squad Leader - August 2020 – February 2022
 
 - Managed inventory logistics for $200 million worth of ammunition, ensuring optimal supply distribution and readiness.
