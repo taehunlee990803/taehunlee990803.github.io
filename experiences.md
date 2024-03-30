@@ -26,6 +26,7 @@
     <img src="/assets/img/aicloud-logo.png" alt="AiCloud Logo" style="width: 100px; margin-right: 10px;">
     <div style="font-size: 24px; font-weight: bold;"> AiCloud, South Korea </div>
 </div>
+
 ### Machine Learning Researcher Intern - May 2023 – August 2023
 - Led research initiative on the development of two RNN-based machine learning models for drug discovery, utilizing Python and R to explore process efficiency improvements, indirectly contributing to a significant pharmaceutical investment.
 - Facilitated multidisciplinary collaborations among government, academia, and healthcare sectors, focusing on scientific literature analysis to enhance the theoretical and conceptual foundations of drug discovery models, pivotal in securing a $50 million grant.
@@ -36,6 +37,7 @@
     <img src="/assets/img//korean-army-logo.png" alt="Korean Army Logo" style="width: 100px; margin-right: 10px;">
     <div style="font-size: 24px; font-weight: bold;"> Korean Army, Gyeonggi-do, South Korea </div>
 </div>
+
 ### Sergeant, Squad Leader - August 2020 – February 2022
 - Managed inventory logistics for $200 million worth of ammunition, ensuring optimal supply distribution and readiness.
 - Led a 9-member team in military drills and operations, earning the Outstanding Soldier award for significant contributions.
